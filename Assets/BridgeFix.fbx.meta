@@ -1,16 +1,14 @@
 fileFormatVersion: 2
-guid: 90a8d63ae1150044aa4f4d3a316cea44
+guid: 22cb19a883843ee4b83cac9a3fb035e6
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Mesh_0138.rip
     400000: //RootNode
-    400002: Mesh_0138.rip
-    2100000: Mesh_0138.ripMat
-    2300000: Mesh_0138.rip
-    3300000: Mesh_0138.rip
-    4300000: Mesh_0138.rip
+    2100000: No Name
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: drawcall
   externalObjects: {}
   materials:
     importMaterials: 1
